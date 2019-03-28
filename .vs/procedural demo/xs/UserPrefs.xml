@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{850E976C-7CF6-6991-027B-7DC29DA0B18C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Pathmaker.cs">
+    <Files>
+      <File FileName="Assets/scripts/Pathmaker.cs" Line="58" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
